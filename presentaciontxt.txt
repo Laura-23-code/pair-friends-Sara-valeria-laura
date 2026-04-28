@@ -1,0 +1,54 @@
+diapo 1
+darme un segundito que comenzamos a gravar.
+sara: recondin in progres
+confirmarme que veis la pantalla y escucháis la musiquita . 
+
+Una vez que hemos recordado nuestros inicios , empezamos con la presentación , nos ponemos serias y hacemos de analistas de datos 
+
+diapo 2
+
+diapo 3 
+Recordamos los datos vistos en el tema anterior de Friends
+pues en esta grafica vemos las visualizaciones por  temporadas como veis vamos filtrando por nuestro filtro que a la vez nos cambia los big numbers nos idivica, numero de episodios, promerdio de in , visualización máxima en la temporada y suma de visualizaciones en cada temporada, asi como la otra grafica nos indica el año los años que se emitio, destacamos la temporada 2 que es la mas vista con el capitulo mas visto con 52 millones de espectadores
+
+ya hemos visto en EEUU como se comporto eta serie pero... y anivel mundial?
+
+muy bien  chicas a nivel mundial tenemos que se ha visto en 20 países, podeis ver según pimncho elpais como me va cambiando la popularidad en ese país y sus visualizaciones , evidemente , eeuu ess el sitio con mas visualizaciones , lo cvemos por el tamaño de las burbujas , eguido según  parece de Asia , pero vamos a verlo mas en detalle 
+
+botón ocultar
+
+en esta grafica c mostramos los 10 países con mas seguimiento, entre ellos la popularidad y podemos ver como va cambiando la popularidad por continente, a veces el país tienen mas popularidad que el contienente, debido claro a que es una media .
+Asaia nos ha engañado ya que es el 4º continente donde ha sido mas popular la serie, pero no esta entre los 10 países con mas popularidad de la serie
+
+
+diapo  portada big
+
+pero es verdad eso que el alumno  supera el maestro, lo podemos comprobar en nuestro caso con una de esas series sit come que se crearon gracias a la popularidad de Friends, en nuesto caso big bang
+
+
+diapo big
+
+vemos que esta serie fue emitida desde 2007 a2 018
+con 12 temporadas y visualizaciones máximas de 20 millones que fue en la temporada 7 y visualizaciones medias de hasta 194 millones espectadores, vemos que se mantuvo mas o menos en las visualizaciones en el tiempo , y su promedio de Imb de casi 8 puntos, algo excelente en una serie emitida durante 10 años, mantener este dato es todo un hito
+sara: entonces supera el alumno al maestro?vamos a comprobarlo
+
+diapo comparaciones..  no pinchar grafico imb
+
+mira si ves la tabla de la audencia ves que el pico mas bajo de Friends fue el momento mas alto de big, lo que quiere decir que en audiendia gana por goleada, aunque cabe destacar que big se mativo estable en audiencia mientreas friend esta llena de altibajos
+
+sin embargo en en imb en la temporada 3 por ejemplo big supera Friends y hasta la temporada 6 mas o menos mantiene el pulso, a partir de la 7 se empiezan a ver otra vez las diferencias , 
+
+aquí podemos ver essta métricas filtradas por una serie o por otra aunque lo interesante ess ver las 2 series y compararlas 
+
+diapo kpi
+y entonces por temporada, cuanto le faltaba a big para alcanzar a Friends, en visualizacione hablamos 
+
+ pincho la 1 , esta rallita  la visualizaciones de big mita la cantidad que faltaba par llegar a Friends, sin embargo , la uno y la dos les faltaba mucho, de la 3 a la 5 se acercaban , la seis y la siete sobre todo la siete casi igualan, la 8 y nueve y 10 ya no tanto y en la 11 y 12 no hay datos porque Friends solo tiene 10 temporadas 
+
+y a estas conclusiones hemos llegado a través de :....
+15 chicas  ,un profesior  patata ,millones de ilusiones  y mmuuuuuchas muuuchas lagrimas....
+
+os acordáis cuando empezamos muestra aventura en Python haciendo juguecitos como el ahorcado?, los nervios de las primeras entrevistas técnicas, la primera vez que nos enfrentamos a un examne de 36 horas después quisimos dropear Python para hacernos amigos de los joins y fortalecer nuestro  Alter ego , hasta que en el examen nos encontramos en maldita pregunta 23 con sus susconsultas que nos delete la sonrisa de la cara .
+En conclusión edanalizando nuestro paso por adalab , los datos nos dijeron que lo importante no es ganar es terminar¡¡¡
+
+el mejor conocimiento que nos podemos llevar es haber conocido a este equipazo 
